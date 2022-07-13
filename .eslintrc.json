@@ -18,6 +18,7 @@
 		"react"
 	],
 	"rules": {
+		"no-undef": "off",
 		"react/jsx-filename-extension": [
 			1,
 			{
